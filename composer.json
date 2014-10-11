@@ -1,5 +1,5 @@
 {
-    "name": "codingmatters/mot-branch",
+    "name": "megamitch/mot-branch",
     "description": "Branch manangement module for Mega Mitch Credit, Inc. Office Tool (MegaOfficeTool) Platform",
     "license": "MIT",
     "type": "application",
@@ -9,7 +9,7 @@
         "branch",
         "zf2"
     ],
-    "homepage": "https://github.com/CodingMatters/MOT_Branch/",
+    "homepage": "http://megamitch.ph",
     "authors": [
         {
             "name": "Gab Amba",
